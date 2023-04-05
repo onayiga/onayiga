@@ -7,8 +7,8 @@ Senior Technical Writer and Aspiring Developer
 I am a seasoned technical communications professional, and content creator with skills for translating complex, life-saving product and therapy information for diverse audiences within medical technology, information technology, and healthcare industries. With over 12 years of experience, my area of expertise involves writing product documentation for software development applications and medical device technologies. As a technical writer, I take complex information and concepts, and break it down to simpler forms of understanding for both technical and non-technical audiences, through the use of written and visual communication. In recent years, I have spent my time working more closely within the tech space. Some of my more recent experience includes creating and formalizing Runbook documentation, as well as formalizing and bar-raising API related content for developers and engineers within the tech teams across Amazon Pharmacy. If you are looking to create or enhance your information architecture through the use of technical documentation, feel free to reach out!
 
 * 🌍  I'm based in Washington D.C or Virtual
-* ✉️  You can contact me at [stacey.fatunbi@gmail.com](mailto:stacey.fatunbi@gmail.com)
-* 🤝  I'm open to collaborating on Open source projects that need enhanced documentation
+* ✉️  Need an advanced technical writer for your developer documentation or software documentation needs? Feel free to contact me at: [stacey.fatunbi@gmail.com](mailto:stacey.fatunbi@gmail.com)
+* 🤝  I'm open to collaborating on open source projects as well! 
 
 ### Skills
 
@@ -21,6 +21,11 @@ I am a seasoned technical communications professional, and content creator with 
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
+
+
+### Writing Portfolio
+
+Check out my previous work and contributions!
 
 
 ### Socials
