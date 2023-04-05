@@ -1,3 +1,5 @@
+<img align= "center" alt="COding" width="1115" height="350" src="https://media.istockphoto.com/id/1224500457/photo/programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg?b=1&s=170667a&w=0&k=20&c=na3ACFWNhvnnhl4r5NuC7J4MnLfzz_kMVSsL7ropwJM=">
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stacey Onayiga
 <img align= "right" alt="COding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
 ======================================================================================================================================
