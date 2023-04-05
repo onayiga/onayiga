@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stacey Onayiga
 ======================================================================================================================================
 
-Senior Technical Writer and Aspiring Developer
+Technical Writer and Aspiring Developer
 ----------------------------------------------
 
 I am a seasoned technical communications professional, and content creator with skills for translating complex, life-saving product and therapy information for diverse audiences within medical technology, information technology, and healthcare industries. With over 12 years of experience, my area of expertise involves writing product documentation for software development applications and medical device technologies. As a technical writer, I take complex information and concepts, and break it down to simpler forms of understanding for both technical and non-technical audiences, through the use of written and visual communication. In recent years, I have spent my time working more closely within the tech space. Some of my more recent experience includes creating and formalizing Runbook documentation, as well as formalizing and bar-raising API related content for developers and engineers within the tech teams across Amazon Pharmacy. If you are looking to establish or enhance your information architecture and/or technical documentation, feel free to reach out!
