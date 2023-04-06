@@ -28,7 +28,8 @@ I am a seasoned technical communications professional, and content creator with 
 
 ### Writing Portfolio
 
-Check out my previous work and contributions!
+Check out my previous work and contributions  <a href="http://127.0.0.1:5500/writing/index.html"> here. </a>
+               
 
 
 ### Socials
