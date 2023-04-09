@@ -32,7 +32,7 @@ If you are looking to establish or enhance your information architecture and/or 
 
 ### Writing Portfolio
 
-Check out my previous work and contributions  <a href="https://onayiga.github.io/Writing-Portfolio/" target="_blank"> here. </a>
+Check out my previous work and contributions  <a href="https://onayiga.github.io/Writing-Portfolio/"target="_blank"> here. </a>
                
 
 
