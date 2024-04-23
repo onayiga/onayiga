@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img align= "right" alt="COding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
 ======================================================================================================================================
 
-Senior Technical Writer and Commynications Professional
+Senior Technical Writer and Communications Professional
 ----------------------------------------------
 
 As a dynamic and skilled technical communications professional and content creator, I have over 13 years of experience creating technical documentation for both technical and non-technical global audiences. My area of expertise includes, but is not limited to, creating comprehensive technical documentation for software applications within information technology and biotechnology industries. I have a technical aptitude and capacity for producing and enhancing developer documentation as it relates to software programming and open source application projects.
